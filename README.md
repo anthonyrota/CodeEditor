@@ -1,2 +1,0 @@
-# CodeEditor
-Created with CodeSandbox
